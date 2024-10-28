@@ -1,0 +1,40 @@
+[
+    {
+        "name": "A",
+        "type": "full_time",
+        "available_days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "unavailable_days": ["2024-11-05", "2024-11-06", "2024-11-12"],
+        "max_hours_per_week": 40,
+        "max_hours_per_month": 200
+    },
+    {
+        "name": "B",
+        "type": "full_time",
+        "available_days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "unavailable_days": ["2024-11-04", "2024-11-05", "2024-11-12"],
+        "max_hours_per_week": 40,
+        "max_hours_per_month": 200
+    },
+    {
+        "name": "C",
+        "type": "full_time",
+        "available_days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "unavailable_days": ["Sat", "Sun", "2024-11-04"],
+        "max_hours_per_week": 40,
+        "max_hours_per_month": 200
+    },
+    {
+        "name": "D",
+        "type": "part_time",
+        "available_days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        "unavailable_days": [],
+        "max_hours_per_week": 20
+    },
+    {
+        "name": "E",
+        "type": "part_time",
+        "available_days": ["Fri", "Sat"],
+        "unavailable_days": ["2024-11-15"],
+        "assigned_clinic": "姫路院"
+    }
+]

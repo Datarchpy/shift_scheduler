@@ -1,0 +1,35 @@
+{
+    "himeji_special_dates": [
+        "2024-11-01",
+        "2024-11-02",
+        "2024-11-08",
+        "2024-11-09",
+        "2024-11-15",
+        "2024-11-16",
+        "2024-11-22",
+        "2024-11-29",
+        "2024-11-30"
+    ],
+    "kobe_special_dates": {
+        "2024-11-01": {
+            "closed": ["afternoon"]
+        },
+        "2024-11-04": {
+            "closed": ["night"]
+        },
+        "2024-11-08": {
+            "closed": ["afternoon"]
+        },
+        "2024-11-15": {
+            "open": ["night"],
+            "closed": ["morning", "afternoon"]
+        },
+        "2024-11-23": {
+            "closed": ["morning", "afternoon", "night"]
+        },
+        "2024-11-29": {
+            "open": ["night"],
+            "closed": ["morning", "afternoon"]
+        }
+    }
+}

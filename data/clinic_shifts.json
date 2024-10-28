@@ -1,0 +1,20 @@
+{
+    "神戸院": {
+        "Sunday": [],
+        "Monday": ["morning", "afternoon", "night"],
+        "Tuesday": ["night"],
+        "Wednesday": ["night"],
+        "Thursday": ["morning", "afternoon", "night"],
+        "Friday": ["morning", "afternoon", "night"],
+        "Saturday": ["morning", "afternoon"]
+    },
+    "姫路院": {
+        "Sunday": [],
+        "Monday": [],
+        "Tuesday": [],
+        "Wednesday": [],
+        "Thursday": [],
+        "Friday": ["night"],
+        "Saturday": ["night"]
+    }
+}
